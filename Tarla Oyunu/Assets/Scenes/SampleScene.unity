@@ -5409,7 +5409,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d775a8d43a991c4791e4120bd272650, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 50
+  moveSpeed: 150
   joystickController: {fileID: 1666610935}
   gravityMultiplier: 3
   gravityVelocity: 0
